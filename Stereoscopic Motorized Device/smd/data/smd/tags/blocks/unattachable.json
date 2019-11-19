@@ -1,0 +1,10 @@
+{
+    "values": [
+        "#minecraft:air",
+        "#minecraft:leaves",
+        "minecraft:water",
+        "minecraft:lava",
+        "minecraft:fire",
+        "minecraft:barrier"
+    ]
+}

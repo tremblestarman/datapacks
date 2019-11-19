@@ -1,0 +1,6 @@
+{
+    "parent": "block/crafting_table",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 6978078 }, "model": "smd/smd_assembly_table"}
+    ]
+}
