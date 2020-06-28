@@ -1,0 +1,29 @@
+{
+    "parent": "3mg:3mg/gas",
+    "display": {
+        "icon": {
+            "item": "minecraft:barrel",
+            "nbt": "{CustomModelData:6978073}"
+        },
+        "title": {
+            "translate": "advancements.3mg.gas_compressor.title"
+        },
+        "description": {
+            "translate": "advancements.3mg.gas_compressor.description"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        [
+            "impossible"
+        ]
+    ]
+}

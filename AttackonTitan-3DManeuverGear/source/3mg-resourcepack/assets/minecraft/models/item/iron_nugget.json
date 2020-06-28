@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_nugget"
+    },
+    "overrides": [
+		{ "predicate": { "custom_model_data": 6978068 }, "model": "3mg/fan"},
+		{ "predicate": { "custom_model_data": 6978069 }, "model": "3mg/gas_pipe"},
+		{ "predicate": { "custom_model_data": 6978070 }, "model": "3mg/gas_pump"},
+		{ "predicate": { "custom_model_data": 6978071 }, "model": "3mg/gas_valve"},
+		{ "predicate": { "custom_model_data": 6978072 }, "model": "3mg/advanced_hook"},
+		{ "predicate": { "custom_model_data": 6978074 }, "model": "3mg/cylinder"},
+		{ "predicate": { "custom_model_data": 6978075 }, "model": "3mg/injector"},
+		{ "predicate": { "custom_model_data": 6978076 }, "model": "3mg/ejector"},
+		{ "predicate": { "custom_model_data": 6978077 }, "model": "3mg/3mg_core"}
+    ]
+}

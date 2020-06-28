@@ -1,0 +1,19 @@
+admin 管理员
+- for debug / Debug专用
+
+crafting 合成
+- 3mg table generating / 立体机动工作台的生成
+- recipes / 合成表
+
+functional 功能性道具
+- gas / 瓦斯
+- compressor / 气体压缩机
+- 3mg assemble table / 立体机动装置组装台
+
+event_listen 事件监听
+- raycast / 射线碰撞
+
+player : 玩家行为
+- attach_tset / 穷举检测可附着坐标
+- function / 功能性方法
+- physic / 物理

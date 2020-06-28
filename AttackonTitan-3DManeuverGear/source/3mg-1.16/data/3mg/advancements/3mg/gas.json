@@ -1,0 +1,28 @@
+{
+    "parent": "3mg:3mg/root",
+    "display": {
+        "icon": {
+            "item": "minecraft:glass_bottle",
+            "nbt": "{Enchantments:[{}]}"
+        },
+        "title": {
+            "translate": "advancements.3mg.gas.title"
+        },
+        "description": {
+            "translate": "advancements.3mg.gas.description"
+        },
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        [
+            "impossible"
+        ]
+    ]
+}

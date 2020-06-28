@@ -1,0 +1,7 @@
+{
+    "parent": "block/barrel",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 6978073 }, "model": "3mg/gas_compressor"},
+		{ "predicate": { "custom_model_data": 6978078 }, "model": "3mg/3mg_assembly_table"}
+    ]
+}

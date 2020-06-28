@@ -1,9 +1,6 @@
 # datapacks
 
-A collection of some datapacks I made. (as a backup)
+A collection of some datapacks I made. 
 
-- ## Stereoscopic Motorized Device (立体机动装置)
+- ## [Attack on Titan - 3D Maneuver Gear (立体机动装置)](AttackonTitan-3DManeuverGear/README.md)
 
-  - ### [View more info](https://github.com/tremblestarman/datapacks/edit/master/Stereoscopic%20Motorized%20Device/ "More info")
-
-WIP. Now developing the spawner of **GIANTS** and a **COMBAT** system with a more exciting experience.

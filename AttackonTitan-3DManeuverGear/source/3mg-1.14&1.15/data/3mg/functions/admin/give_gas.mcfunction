@@ -1,0 +1,1 @@
+summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:glass_bottle",Count:1b,tag:{Enchantments:[{}],display:{Name:'{"translate":"3mg.gas"}',Lore:['[{"translate":"3mg.gas.lore"}]']},3mgisGas:1b,HideFlags:63}}}

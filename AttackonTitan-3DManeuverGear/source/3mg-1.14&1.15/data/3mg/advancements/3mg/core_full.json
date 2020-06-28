@@ -1,0 +1,27 @@
+{
+    "parent": "3mg:3mg/core",
+    "display": {
+        "icon": {
+            "item": "minecraft:string"
+        },
+        "title": {
+            "translate": "advancements.3mg.core_full.title"
+        },
+        "description": {
+            "translate": "advancements.3mg.core_full.description"
+        },
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        [
+            "impossible"
+        ]
+    ]
+}

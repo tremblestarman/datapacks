@@ -1,0 +1,1 @@
+advancement revoke @s from 3mg:3mg/root

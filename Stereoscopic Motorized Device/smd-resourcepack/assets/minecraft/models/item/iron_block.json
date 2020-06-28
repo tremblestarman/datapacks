@@ -1,6 +1,0 @@
-{
-    "parent": "block/iron_block",
-	"overrides": [
-		{ "predicate": { "custom_model_data": 6978073 }, "model": "smd/gas_compressor"}
-    ]
-}

@@ -1,0 +1,29 @@
+{
+    "parent": "3mg:3mg/root",
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_nugget",
+            "nbt": "{CustomModelData:6978077}"
+        },
+        "title": {
+            "translate": "advancements.3mg.core.title"
+        },
+        "description": {
+            "translate": "advancements.3mg.core.description"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        [
+            "impossible"
+        ]
+    ]
+}
