@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:small_fireball",
+        "minecraft:shulker_bullet",
+        "minecraft:wither_skull",
+        "minecraft:fireball"
+    ]
+}
