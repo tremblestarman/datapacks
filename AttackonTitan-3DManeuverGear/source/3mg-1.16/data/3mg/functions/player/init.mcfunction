@@ -10,7 +10,6 @@ data modify block 0 0 0 Items[0].Slot set value 0b
 data modify block 0 0 0 Items[0].tag.display.Lore[0] set value '[{"translate":"3mg.3mg.lore.using"}]'
 # disable attack
 execute store success score 3mg_attribute_result var run data modify block 0 0 0 Items[0].tag.AttributeModifiers set from block 0 0 0 Items[0].tag.AttributeModifiersCopy
-execute if score 3mg_attribute_result var matches ..0 run say 1
 execute if score 3mg_attribute_result var matches ..0 run data remove block 0 0 0 Items[0].tag.AttributeModifiers
 scoreboard players reset 3mg_attribute_result var
 data remove block 0 0 0 Items[0].tag.Unbreakable

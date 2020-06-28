@@ -17,7 +17,6 @@ execute if score y2 var = 0 con run tag @s add acy4
 execute if score z2 var >= 10000 con run tag @s add acz0
 execute if score z2 var >= 1000 con if score z2 var < 10000 con run tag @s add acz1
 execute if score z2 var >= 100 con if score z2 var < 1000 con run tag @s add acz2
-execute if score z2 var >= 10 con if score z2 var < 100 con run say 1
 execute if score z2 var >= 10 con if score z2 var < 100 con run tag @s add acz3
 execute if score z2 var >= 1 con if score z2 var < 10 con run tag @s add acz4
 execute if score z2 var < 1 con run tag @s add acz5

@@ -14,7 +14,7 @@
 | 2020/06/23 | Change system regulation |
 | 2020/06/25 | Fix bugs about items |
 | 2020/06/27 | Write documents |
-| 2020/06/28 | Release |
+| 2020/06/28 | Release on Github |
 
 ## Known Bugs
 
