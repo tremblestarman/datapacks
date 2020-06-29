@@ -246,11 +246,11 @@ Exhaustive method. See more in [`3mg:crafting/3mgtable/3mgtable_update`](../sour
 
 Exhaustive method. See more in [`3mg:functional/3mg_assembly_table/3mg_assembly_table_update`](../source/3mg-1.16/data/3mg/functions/functional/3mg_assembly_table/3mg_assembly_table_update.mcfunction)。
 
-- 气体压缩机
+- Gas Compress
 
 Armorstand with `DisabledSlots`. See more in[`3mg:functional/compressor/compressor_update`](../source/3mg-1.16/data/3mg/functions/functional/compressor/compressor_update.mcfunction)。
 
-### 破坏
+### Breaking
 
 Take assembling table for example. When marker is exposed to air, execute destroy function [`3mg:functional/3mg_assembly_table/3mg_assembly_table_destroy`](../source/3mg-1.16/data/3mg/functions/functional/compressor/compressor_update.mcfunction).
 
