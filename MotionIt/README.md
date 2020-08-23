@@ -1,6 +1,5 @@
 # MotionIt
 A Vanilla Datapack Calculating Motions of Entities.
-( *still in development* )
 ****
 ### Initialization
 ```mcfunction

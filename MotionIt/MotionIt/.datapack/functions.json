@@ -1,1 +1,0 @@
-{"motionit":{"$func":["calculate","getparam","go","init","oppow","oppowc","opx","opy","opz","relativeconfirm","relativeswitch","test"],"pow":{"$func":["0","1","2","5"]},"ui":{"$func":["clear","for","originback","originupdate","posselect","raycast","reset"]}}}

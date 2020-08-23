@@ -8,8 +8,8 @@ A vanilla datapack to partially realize 3D Maneuver Gear in Attack on Titan. Thi
 
 | 版本 Version | 数据包 Datapack | 资源包 ResourcePack |
 | - | - | - |
-| 1.16 | [3mg-1.16](resources/3mg-1.16.zip "最后更新: 2020/6/26") | [resourcepack-1.16](resources/3mg-resourcepack-1.16.zip "最后更新: 2020/6/26") |
-| 1.15, 1.14 | [3mg-1.14&1.15](resources/3mg-1.14&1.15.zip "最后更新: 2020/6/26") | [resourcepack-1.14&1.15](resources/3mg-resourcepack-1.14&1.15.zip "最后更新: 2020/6/26") |
+| 1.16 | [3mg-1.16](https://github.com/tremblestarman/datapacks/raw/master/AttackonTitan-3DManeuverGear/resources/3mg-1.16.zip "最后更新: 2020/6/26") | [resourcepack-1.16](https://github.com/tremblestarman/datapacks/raw/master/AttackonTitan-3DManeuverGear/resources/3mg-resourcepack-1.16.zip "最后更新: 2020/6/26") |
+| 1.15, 1.14 | [3mg-1.14&1.15](https://github.com/tremblestarman/datapacks/raw/master/AttackonTitan-3DManeuverGear/resources/3mg-1.14&1.15.zip "最后更新: 2020/6/26") | [resourcepack-1.14&1.15](https://github.com/tremblestarman/datapacks/raw/master/AttackonTitan-3DManeuverGear/resources/3mg-resourcepack-1.14&1.15.zip "最后更新: 2020/6/26") |
 
 ## 目录 Catalogue
 
